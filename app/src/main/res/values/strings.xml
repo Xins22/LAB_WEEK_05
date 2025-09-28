@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">LAB WEEK 05</string>
-    <string name="image_placeholder">Image URL: %s</string>
+    <string name="cat_breed_placeholder">Breed: %s</string>
+    <string name="unknown_breed">Breed: Unknown</string>
 
 
 </resources>
