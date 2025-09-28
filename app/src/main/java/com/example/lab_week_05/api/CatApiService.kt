@@ -1,4 +1,4 @@
-package com.example.labweek05.api
+package com.example.lab_week_05.api
 
 import com.example.lab_week_05.model.ImageData
 import retrofit2.Call
